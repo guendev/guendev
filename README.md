@@ -3,8 +3,8 @@
 <p><em>Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![GitHub followers](https://img.shields.io/github/followers/dnstylish?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=dnstylish)
+![GitHub followers](https://img.shields.io/github/followers/nguyenshort?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=nguyenshort)
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda

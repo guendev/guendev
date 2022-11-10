@@ -22,7 +22,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 //  Created by Yuan on 24/02/2022.
 //
 struct Me {
-    let pronouns = ["Him", "He", "Yuan"]
+    let pronouns = ["Him", "He", "Yuan", "Seme"]
     let role = "Software Engineer"
     let skills = ["Web", "App", "Design", "Tech"]
     let backEnd = ["Node", "Express", "NestJS", "GraphQL", "PHP"]

@@ -36,7 +36,8 @@ struct Me {
     }
     
     func fact() -> Void {
-        print("I'm a Queer. I'm ready to protect people like me 😊")
+        print("I'm a queer who wants to bring happiness to everybody.
+😊")
     }
 }
 ```

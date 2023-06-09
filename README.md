@@ -3,8 +3,8 @@
 <p><em>Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![GitHub followers](https://img.shields.io/github/followers/nguyenshort?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=nguyenshort)
+![GitHub followers](https://img.shields.io/github/followers/guendev?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=guendev)
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
@@ -46,7 +46,6 @@ struct Me {
 <br>
 <p align="center">
     <img alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:50px;" />
-    <img alt="Webstorm" width="33px" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" style="padding-right:50px;" />
     <img alt="Xcode" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" style="padding-right:50px;" />
     <img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:50px;" />
     <img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:50px;" />
